@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working on Web App(Spring Boot - Angular).
 
-- 🌱 I’m currently learning ****.
+- 🌱 I am currently immersed in learning DevOps and its related technologies.
 
 - 💬 Ask me about **Angular & Spring**
 
@@ -22,16 +22,12 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ayoubelhaddad/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kaoutarelghajouan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ElHaddadAyoub">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/kaoutarElghajouan">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/18179523/el-haddad-ayoub">
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/17551303/kaoutar-el-ghajouan">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/hadad.ayoub/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ELHADDADAYOUB4">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
 </p>
